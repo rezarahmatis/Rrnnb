@@ -1,0 +1,6 @@
+{
+  "name": "Pelagia",
+  "description": "An interactive OpenGL ES 3.0 aquatic music sanctuary with 38 living underwater worlds, 74 natural aquatic species, multi-species custom aquariums, and a local Media3 music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
